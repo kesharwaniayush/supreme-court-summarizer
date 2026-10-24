@@ -201,7 +201,7 @@ Install the following before running the application:
 Once the project has been uploaded to GitHub:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/kesharwaniayush/supreme-court-summarizer.git
 cd supreme-court-summarizer
 ```
 
